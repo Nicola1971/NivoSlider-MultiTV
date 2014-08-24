@@ -1,10 +1,10 @@
 /**
- * nivoslider-jscss
+ * nivoslider-js
  *
- * include js and css for nivoslider multitv
+ * include js for nivoslider multitv
  *
  * @category	chunk
- * @version 	2.0
+ * @version 	2.1
  * @author      tattoocms.it
  * @license 	http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @internal	@modx_category MultiTV add-ons
@@ -12,9 +12,6 @@
  * @internal    @overwrite false
  */
 
-<link rel="stylesheet" type="text/css" href="/assets/templates/common/js/nivoslider/nivo-slider.css" media="screen" />
-<!--nivo theme-->
-<link rel="stylesheet" href="/assets/templates/common/js/nivoslider/themes/default/default.css" type="text/css" />
 <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script> -->
     <script type="text/javascript" src="/assets/templates/common/js/nivoslider/jquery.nivo.slider.js"></script>
     <script type="text/javascript">
