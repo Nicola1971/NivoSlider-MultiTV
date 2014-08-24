@@ -4,7 +4,7 @@ $settings['fields'] = array(
     'transition' => array(
         'caption' => 'transition',
         'type' => 'dropdown',
-        'elements' => ' ||sliceDown||sliceDownLeft||sliceUp||sliceUpLeft||sliceUpDown||sliceUpDownLeft||fold||fade||random||slideInRight||slideInLeft||boxRandom||boxRain||boxRainReverse||boxRainGrow||boxRainGrowReverse'
+        'elements' => ' ||sliceDown||sliceDownLeft||sliceUp||sliceUpLeft||sliceUpDown||sliceUpDownLeft||fold||fade||slideInRight||slideInLeft||boxRandom||boxRain||boxRainReverse||boxRainGrow||boxRainGrowReverse'
     ),
     'image' => array(
         'caption' => 'Image',
